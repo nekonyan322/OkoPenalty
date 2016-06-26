@@ -1,0 +1,14 @@
+name: Daisuke
+main: com.github.nekonyan.daisuke.Daisuke
+version: 1.0
+commands:
+   warm:
+   alert:
+   mute:
+   warminfo:
+   freeze:
+   report:
+   staffmenu:
+   sm:
+   staff:
+   s:
